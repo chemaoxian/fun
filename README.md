@@ -1,1 +1,2 @@
-# Some funny cod
+# fun
+some funny code
